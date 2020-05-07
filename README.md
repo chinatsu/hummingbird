@@ -8,9 +8,9 @@ the name comes from the tetris setup known as the [hummingbird](https://harddrop
 
 ![hummingbird layout](hummingbird_layout.png)
 
-[x] layout
-[ ] case
-[ ] pcb
+- [x] layout
+- [ ] case
+- [ ] pcb
 
 
 ## log
