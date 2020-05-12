@@ -1,3 +1,11 @@
 [submodule "hummingbird/Type-C.pretty"]
 	path = hummingbird/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty
+
+[submodule "hummingbird/MX_Alps_Hybrid.pretty"]
+	path = hummingbird/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+
+[submodule "hummingbird/random-keyboard-parts.pretty"]
+	path = hummingbird/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
