@@ -15,6 +15,13 @@ the name comes from the tetris setup known as the [hummingbird](https://harddrop
 
 ## log
 
+### may 13th 2020
+
+i've gone a bit back and forth with how i want the pcb (and subsequently, the case). initially, i only wanted 
+through hole components, but i think a mix of both through hole and surface mounted components could also be neat. 
+as of now, i'd like one atmega32u4 on each side, which is surface mounted. i am still wanting through hole diodes
+though, that's what looks cool on the plaid and similar boards anyway.
+
 ### may 7th 2020
 
 this design has been on my mind for a little while now. i'm trying not to have
