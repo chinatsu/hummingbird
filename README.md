@@ -15,6 +15,10 @@ the name comes from the tetris setup known as the [hummingbird](https://harddrop
 
 ## log
 
+### november 9th 2020
+
+made a draft of a plate, i'll be getting it cut tomorrow to see if i.. like the layout and such
+
 ### may 13th 2020
 
 i've gone a bit back and forth with how i want the pcb (and subsequently, the case). initially, i only wanted 
